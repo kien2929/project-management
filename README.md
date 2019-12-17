@@ -2,7 +2,7 @@
 
 
 
-#Chúng em đang có một dự án nghìn tỷ... Và muốn Thầy Nguyễn Đức Tiến join cùng!
+#Chúng em đang có một dự án nghìn tỷ... Và muốn thầy Nguyễn Đức Tiến join cùng!
 
 
 
@@ -13,4 +13,4 @@
 
 
 
-#nét chấm phá giữa làng game thế giới :)))
+#Nét chấm phá giữa làng game thế giới :)))
