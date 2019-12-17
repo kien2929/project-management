@@ -2,12 +2,12 @@
 
 
 
-#em vinh dự được làm chung dự án nghìn tỉ này với bạn Tiến NM
+#Chúng em đang có một dự án nghìn tỷ... Và muốn Thầy Nguyễn Đức Tiến join cùng!
 
 
 
 
-#Dự án có quy mô toàn cầu, kì vọng mang lại doanh thu 1 tỉ đô la sau 3 tháng ra mắt
+#Dự án có quy mô toàn cầu, kì vọng mang lại doanh thu 1 tỷ đô la sau 3 tháng ra mắt
 
 
 
