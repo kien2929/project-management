@@ -65,7 +65,7 @@ public class test {
         return false;
     }
 
-    // we check if a possible number is in its 3x3 box
+    // we check if a possible number is in its 3x3 box...
     private boolean isInBox(int row, int col, int number) {
         int r = row - row % 3;
         int c = col - col % 3;
