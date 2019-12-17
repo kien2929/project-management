@@ -43,7 +43,7 @@ public class test {
         }
     }
 
-    // we check if a possible number is already in a row
+    // we check if a possible number is already in a row...
     private boolean isInRow(int row, int number) {
         for (int i = 0; i < SIZE; i++) {
             if (board[row][i] == number) {
